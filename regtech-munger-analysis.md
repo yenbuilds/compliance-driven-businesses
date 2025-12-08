@@ -45,7 +45,7 @@ Here's where incentives turn dark. If RegTech businesses profit from regulatory 
 - **Barrier to entry**: Complex compliance requirements + mandatory RegTech solutions create barriers that favor established players
 - **Regulatory Stockholm Syndrome**: Society becomes dependent on RegTech intermediaries, losing the impetus to question whether regulations themselves are necessary
 
-Consider this scenario: A RegTech company sells AML (anti-money laundering) compliance software. Every expansion of AML requirements—even ineffective ones that catch few criminals but burden many legitimate businesses—increases their addressable market. The incentive is to applaud regulatory expansion, not efficiency.
+Consider this scenario: A RegTech company sells AML (anti-money laundering) compliance software. Every expansion of AML requirements increases their addressable market—even ineffective expansions that catch few criminals but burden many legitimate businesses. The incentive is to applaud regulatory expansion, not efficiency.
 
 **2. Surveillance Infrastructure and Privacy Paradox**
 
