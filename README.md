@@ -57,3 +57,9 @@
 
 - **FOI / Right-to-Information request service (for orgs)**  
   Helping organisations manage incoming FOI/RTI requests, apply exemptions correctly, and maintain the required logs and timelines.
+
+---
+
+## Further Reading
+
+- [RegTech: A Double-Edged Sword for Society - A Charlie Munger-Style Analysis](regtech-munger-analysis.md)
