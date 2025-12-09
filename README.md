@@ -3,7 +3,7 @@ This piece has been written with the help of ChatGPT. Opinions are mine.
 
 # **Competence Over Compliance: Why RegTech Is Quietly Adding Negative Value to Society**
 
-Regulation exists for good reasons — safety, privacy, environmental protection, consumer trust. But somewhere along the way, we started confusing **competence** with **compliance**, and mistaking green dashboards for actual capability.
+Regulation exists for good reasons — safety, privacy, environmental protection, consumer trust. But at some point we started confusing **competence** with **compliance**, and mistaking green dashboards for actual capability.
 
 That confusion has created one of the fastest-growing sectors in tech: RegTech.
 
