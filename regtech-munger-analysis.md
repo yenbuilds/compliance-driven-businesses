@@ -1,3 +1,6 @@
+This piece has been written with the help of ChatGPT. Opinions are mine.
+
+
 # RegTech: A Double-Edged Sword for Society
 ## A Charlie Munger-Style Analysis
 
